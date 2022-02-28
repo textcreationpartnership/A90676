@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The picture of the good old cause drawn to life in the effigies of Master Prais-God Barebone. With several examples of Gods Judgements on some eminent engagers against kingly government.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90676</idno>
+            <idno type="STC">Wing P2157</idno>
+            <idno type="STC">Thomason 669.f.25[57]</idno>
+            <idno type="STC">ESTC R212482</idno>
+            <idno type="EEBO-CITATION">99871090</idno>
+            <idno type="PROQUEST">99871090</idno>
+            <idno type="VID">163862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The picture of the good old cause drawn to life in the effigies of Master Prais-God Barebone. With several examples of Gods Judgements on some eminent engagers against kingly government.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold at divers book-sellers shops,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barbon, Praisegod, 1596?-1679 --  Early works to 1800.</term>
+               <term>Puritan movements --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163862:1" rendition="simple:additions"/>
+            <head>The Picture of the Good Old Cauſe drawn to the Life
+In the Effigies of Maſter PRAIS-GOD BAREBONE.
+Several Examples of Gods Judgements on ſome Eminent Engagers againſt Kingly Government.</head>
+            <figure>
+               <p>The Portraiture of M<hi rend="sup">r</hi>
+Praiſe God Barebone</p>
+            </figure>
+            <p>1. <hi>Doriſlaus,</hi> one that had a great hand in the Kings
+murther, was ſtab'd at the <hi>Hague</hi> in <hi>March</hi> 1649.
+when he was ſent to treat with the <hi>Dutch</hi> in the
+name of the Free-State or Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>2. <hi>Anthony Aſcham</hi> ſerved in the like manner at
+<hi>Madrid</hi> in <hi>Spain,</hi> near the ſame time, being ſent
+from the <hi>Rump</hi> on the like errand.</p>
+            <p>3. <hi>Milton</hi> that writ two Books againſt the Kings,
+and <hi>Salmaſius</hi> his Defence of Kings, ſtruck total<g ref="char:EOLhyphen"/>ly
+blind, he being not much above 40. years old.</p>
+            <p>4. Alderman <hi>Hoyle</hi> of <hi>York,</hi> one of the Juncto, and
+high Court of Justice, and (though he ſigned not
+the Kings Sentence) the ſame day twelve moneth,
+the King was murthered, hanged himſelf in his
+Chamber at <hi>Weſtminſter.</hi>
+            </p>
+            <p>5. Sir <hi>Gregory Norton</hi> died raving mad, which
+by his Phyſicians was not imputed to the diſtem<g ref="char:EOLhyphen"/>per
+of his body, but a troubled, diſquieted mind;
+He was one of the Kings Judges.</p>
+            <p>6. <hi>Lockier,</hi> once an Agitator in the Army, at his late
+Majeſties pretended Triall, ſpit <hi>Jew-like</hi> in the
+Kings Face, and likewiſe blew Tobacco-Aſhes
+upon him; Afterwards turned <hi>Leveller,</hi> and
+was ſhot to death by his <hi>Fellow-Rogues</hi> in
+Saint <hi>Pauls</hi> Church-yard.</p>
+            <p>7. Collonel <hi>Ven,</hi> a Citizen of <hi>London,</hi> formerly a
+great Profeſſour of Religion, but turned with the
+Times, was a Member of the <hi>Rump,</hi> a great En<g ref="char:EOLhyphen"/>gager
+againſt Kingly Government, on <hi>July</hi> the 7.
+1650. He going to bed as perfectly well and in
+health, as ever in his life, his Wife lying by him,
+he fell aſleep by her immediately, and ſlept ſound<g ref="char:EOLhyphen"/>ly
+without complaint of the leaſt diſtemper, but the
+next morning about 6 a Clock, his Wife found him
+ſtark dead by her, never having made the leaſt
+groan, or ſpoken one word to her ſince the day be<g ref="char:EOLhyphen"/>fore;
+and thus God baniſhed him firſt out of the
+Land of the Living.</p>
+            <p>Many more inſtances may be given, but I am loth to
+be too tedious.</p>
+            <p>OUr late modern Saints (as if <hi>Guy Fawkes</hi> ſtood for a Lubber in our <hi>Engliſh Calender)</hi> have cano<g ref="char:EOLhyphen"/>nized
+themſelves in ſuch a Rebrick of blood, that the very Enemies of Chriſtian Religion
+would have relented at, and meet humanity regretted: ſuch an univerſal quarrel againſt Go<g ref="char:EOLhyphen"/>vernment,
+Order, all Divine Inſtitution, ſuch impudent affront and bold contempt of Autho<g ref="char:EOLhyphen"/>rity,
+and the Sacred Majeſty of Kings was never before heard of. Nor did the moſt deſperate Heretiques,
+(no not that accurſed <hi>Munſter</hi> crue,) or the moſt ſavage Heathen ever deſign or attempt the quarter
+of the Villanies committed by our <hi>godly party</hi> within this 20. years: Inſomuch, that they have brought
+not only the Proteſtant Catholique Religion, but the very Chriſtian Faith, Divine Truth it ſelf, to con<g ref="char:EOLhyphen"/>tempt
+and deriſion.</p>
+            <p>Neither have they palliated only theſe audacious facinorous Practices under the diſguiſe of religion,
+but avowedly maintained their deſtructive Principles to be conſiſtent and agreeable with it, and en<g ref="char:EOLhyphen"/>titled
+God and his Providence to all their moſt Horrid and execrable actions, daring the Face of the
+Sun with their Egyptian darkneſs, and crying liberty and reformation, when there was nothing but
+ſlavery and confuſion.</p>
+            <p>The <hi>praeludium</hi> of theſe miſcheifs, was begun by the zealous Puritans, they quarrel at the Biſhops Sur<g ref="char:EOLhyphen"/>plices,
+and Lawn-ſleeves, and their ſacrilegious brood ſtrip them of their very ſhirts, and rob God
+and the Church of its revenue, and his Miniſters of all manner of ſubſiſtence. From hence came the
+Title of gifted Brethren; when a prevailing corrupt party of the late long parliament divided the
+ſpoils of the Church among their <hi>Corahs</hi> and <hi>Abirams:</hi> it was the <hi>corban</hi> of Religion that furniſhed
+our <hi>Holders forth</hi> with canting and jugling Doctrines and Uſes.</p>
+            <p>We had alſo ſome of a higher form, the Brethren that were above Ordinances, people inſpired as
+full of deviliſh Revelations as any blown bladder; this was the ſeventh Son, the laſtand worſt Devil,
+the very expreſs image and picture of a Non-Conformiſt, that could do miracles, all but blowing wind
+in the <hi>Rump</hi> to have preſerved it from periſhing.</p>
+            <p>The Perſon preſented here to your view, is one, or rather all of theſe ſorts, that have ſo much
+infeſted and infamed our Age and Countrey, was a diſpenſer during the perſecution of the Biſhops,
+(as they call'd it) when Truth ran into their corners, <hi>and could never be ſeen again among them,</hi> and
+Satan learnt them <hi>Profeſſion</hi> was as convenient. Yea verily beloved, this is he, although he look
+like a ſimple skin, he is a Wolf in ſheeps cloathing, a hide bound covetous Leatherſeller, but has a Con<g ref="char:EOLhyphen"/>ſcience
+as wide as his windows, when it raind ſtones into them at the funeral Pile of the <hi>Rump.</hi> You
+would take his cloudy face for a vizard if you knew not his black ſoul within him, and that Nature
+did her beſt in it to expreſs him to the life. I cannot better pourtrait his mind then by the enſuing
+Petition, where you will find the ſubſtance and abridgement of <hi>Puritaniſme</hi> in its natural and com<g ref="char:EOLhyphen"/>pleat
+dreſs, and this was the <hi>Embrio</hi> and baſe iſſue of his Trayterous deſign.</p>
+            <div type="petition">
+               <head>Mr. PRAISE-GOD BAREBONE his Petition, as it was preſented to the Rump-Parliament, Thurſday the
+ninth of February, 1659. In behalf of himſelf and many Thouſands. With their Anſwer thereunto.</head>
+               <head type="sub">To the Parliament of the Common-wealth of England, &amp;c.
+The Repreſentation and addreſs of the Well-affected Perſons, Inhabitants of the Cities of London and Weſtminſter, and places adjacent, being faithful and conſtant Adherers to this Parliament, who
+are reſolved (by the aſsiſtance of Almighty God) to ſtand by, aſſert and maintain their Authority, againſt all Oppoſers, notwithſtanding the preſent confidence and bold attempts of the Promoters of
+Regal Intereſt, by the declared Enemies of their Cauſe and Authority.</head>
+               <p>WHereas the good Old Cauſe was for Civil and Chriſtian
+Liberty againſt Oppreſſion and Perſecution; the Oppreſ<g ref="char:EOLhyphen"/>ſors
+and Perſecutors were chiefly the King, his Lords,
+and Clergy, and their Adherents; who to effect their De<g ref="char:EOLhyphen"/>ſigns,
+raiſed War againſt the Parliament: whereupon the Parliament
+in defence of Civil and Chriſtian Liberty, call the oppreſſed and per<g ref="char:EOLhyphen"/>ſecuted
+to their aid, by whoſe aſſiſtance the oppreſſors &amp; perſecutors
+have been ſubdued, Kingſhip and Peerage aboliſhed, and Perſecution
+checkt; by which, the number of conſcientious friends to the Parli<g ref="char:EOLhyphen"/>ament
+have been ſo exceedingly encreaſed, that they are now (by
+Gods aſſiſtance) in a far more able capacity of keeping down their
+Enemies, then they were in thoſe times when they ſubdued them.</p>
+               <p>Nevertheleſs, ſo watchful hath the reſtleſs Enemy been to make
+advantage, that what (time after time) he hath loſt in the Field, he
+hath endeavoured to regain, even in the Parliaments Councel.
+Where, becauſe they had not the Face openly to bring in the King,
+with the former Oppreſſions and perſecutions, they Shrouded and
+Vailed themſelves, one while under a Perſonal Treaty; Another
+while, under a Cloak of Zeal againſt Blaſphemy and Hereſie; their
+endeavour being to bring in the King upon any tearms; to cheriſh
+the perſecuting Party, and to Brow-beat their moſt conſcientious
+Oppoſers.</p>
+               <p>Upon which pretences, nevertheleſs they have through tract of
+Time, and the unſettledneſs of Government, prevailed ſo far, as un<g ref="char:EOLhyphen"/>der
+the Notion of a Moderate party, to get the ſubtilleſt of their
+Friends into many places of Truſt and Command both Civil and
+Military; through whoſe countenance and encouragement, albeit
+the Parliament upon good grounds Voted the Government by Kings
+and Lords, uſeleſs, burthenſome and dangerous, and declare very
+largely for Liberty of Conſcience; yet of late, a general boldneſſe
+hath bin taken to plead a neceſſity of returning to the Government
+of King and Lords, a taking in of the Kings Son, or which is all one,
+for a return of the juſtly ſecluded Members, or a Free Parliament,
+without due Qualifications, whereby the good Old Cauſe of Liber<g ref="char:EOLhyphen"/>ty
+and Freedom (ſo long contended for, againſt Regal Intereſt, with
+the expence of much blood and Treaſure) and the Aſſertors there<g ref="char:EOLhyphen"/>of
+will be proſtituted to ſatisfie the Luſts of the Enemies of the
+Common-wealth; wherein they have prevailed) ſo far, that unleſs
+all conſcientious perſons in Parliament, Army, Navy, and Common-wealth,
+do ſpeedily unite, and watchfully look about them; as the
+Sword will certainly (though ſecretly and ſilently) be ſtollen out of
+their hands, ſo alſo will they find all Civil Authority fall ſuddenly
+into the hands of their enraged Enemies, and a return of all thoſe
+Violences, Oppreſſions and Perſecutions, which have coſt ſo much
+Blood and Treaſure to extirpate.</p>
+               <p>The ſerious apprehenſions whereof hath ſtirred up your cordial
+Friends to deſire you to uſe all poſſible endeavours to prevent the
+Common-wealths Adverſaries in this their moſt dangerous
+Stratagem; And as the moſt effectual means thereunto. We
+pray,</p>
+               <p>1. That you will admit no perſon or perſons to ſit or Vote in this,
+or any future Parliament or Council of State, or to be in any Office
+or Judicatory, or any publick Truſt in the Common-wealth, or
+Command in the Army, Navy, or Garriſons, or to be a publick Prea<g ref="char:EOLhyphen"/>cher
+to the people at Sea or Land, or any Inſtructer of Youth except
+ſuch only as ſhall abjure, or by Solemn Engagement renounce the
+pretended Title or Titles of <hi>Charles Stuart,</hi> and the whole Line of
+the late King <hi>James</hi> and of every other perſon as a ſingle perſon
+pretending, or which ſhall pretend to the Crown or Government of
+theſe Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> or any of them, and
+the Dominions and Territories belonging to them, or any of them,
+or any other ſingle perſon, Kingſhip Peerage, or any power co-ordi<g ref="char:EOLhyphen"/>nate
+with the peoples Repreſentives in Parliament; And all coer<g ref="char:EOLhyphen"/>cive
+power in matter of Religion, according to a Vote of a Grand
+Committee of the 11. of <hi>September,</hi> 1659.</p>
+               <p>2. We further pray, that it may be Enacted. That whoſoever ſhal
+move, offer, or propound in Parliament, Councel or in any other
+Court or Publick Meeting, any matter or thing in order to the in<g ref="char:EOLhyphen"/>troducing
+of <hi>Charles Stuarts,</hi> or any of that Family, as aforeſaid; or
+any other ſingle Perſon, Houſe of Lords coercive power in matter of
+Religion, or any power co-ordinate are with the peoples Repreſenta<g ref="char:EOLhyphen"/>tatives
+in Parliament, may be deemed and adjudged guilty of high
+Treaſon, and many ſuffer the pains and penalty thereof. And that
+whoſoever ſhall in Parliament, Councel, or any other publique
+Court, or Meeting, move for, or propoſe the Revocation of this
+Law (when by you enacted) may be deemed and judged guilty of
+high Treaſon, and ſuffer the pains and penalties thereof.</p>
+               <p>In proſection whereof, we ſhall ſtand by you with our Eſtates
+and Lives, to aſſert and maintain your Authority againſt all Oppo<g ref="char:EOLhyphen"/>ſitions
+whatſoever, notwithſtanding the preſent Confidence and
+bold Attempts of yours and our Enemies.</p>
+               <closer>
+                  <signed>Signed Praiſe-God Barebone, with the promiſe of the
+Subſcriptions of many Thouſands.</signed>
+               </closer>
+            </div>
+            <div type="resolution">
+               <p>Reſolved by the Parliament, that the Petitioners have the Thanks
+of the Houſe for uheir Expreſſions of their good Affections to the
+Parliament.</p>
+               <p>
+                  <hi>The Petitioners being again called in, M. Speaker gave them this Anſwer.</hi>
+               </p>
+               <p>Gentlemen, The Houſe have read your Petition, and they do find
+that you have been ſuch as have conſtantly born them good Affecti<g ref="char:EOLhyphen"/>ons,
+and that your Affections are the ſame ſtill: and for the Expreſſi<g ref="char:EOLhyphen"/>ons
+of your good Affections, the Houſe hath commanded me to give
+you Thanks, in their Names I do give you Thanks, accordingly.</p>
+               <p>It is deſired, That all ſuch as are Lovers of the <hi>Good Old Cauſe,</hi> do
+ſend in their Subſcriptions to this Petition, unto the place appoint<g ref="char:EOLhyphen"/>ed
+in thoſe Papers that come to their Hands: Yea, and with all the
+ſpeed that may be, to teſtifie their Zeal to the <hi>Good Old Cauſe,</hi> by
+their being in readineſs to aſſert it.</p>
+               <p>See here the Quinteſſence of Treaſon not to be parallell'd in a<g ref="char:EOLhyphen"/>ny
+times or perſons, but this did King <hi>James</hi> prophetically inti<g ref="char:EOLhyphen"/>mate
+in that uſual <hi>Saying</hi> of his no Biſhop, no King, as alſo is to be
+ſeen in his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> directed to his Son <hi>Hen.</hi> Prince of <hi>Wales.</hi>
+                  <q>In King <hi>James</hi>'s <hi>Baſileon Doron,</hi> in theſe words he adviſes his Son,
+p. 41. 42. Take heed therefore my Son of theſe <hi>Puritans,</hi> the very
+Peſts in the Church and Common-wealth, whom no deſerts can
+oblige, neither Oaths nor promiſes bind, breathing nothing but
+Sedition and Calumnies, aſpiring without meaſure, railing with<g ref="char:EOLhyphen"/>out
+reaſon, and making their own imaginations (without any war<g ref="char:EOLhyphen"/>rant
+of the word,) the Square of their Conſcience.</q>
+               </p>
+               <p>
+                  <q>I proteſt before the great God (and ſince I am here, as upon my
+Teſtament, it is no place for me to lye in) that you ſhall
+never finde with any High-land or Border-Theeves great<g ref="char:EOLhyphen"/>er
+ingratitude, and more lyes and viler perjuries, then among
+theſe PHANATICK Spirits, and ſuffer not the Principals of
+them to brook your Land, if you liſt to ſit at reſt, except you
+would keep them for trying your patience, as <hi>Socrates</hi> did an evil
+wiſe, and in p. 40. <hi>He ſaith,</hi> I was often calumniated in their popular
+Sermons: Not for any vice or evil that was in me, <hi>But becauſe I
+was a King, which to them is the higheſt evil.</hi>
+                  </q>
+               </p>
+               <p>'Tis not to be doubted, that any the moſt ſpecious Pretences of
+Religion, any ſeeming extraordinary piety ſhall ever be able to
+ſhake our Allegiance; or that late poſterity will not with Horrour
+and Amazement <hi>read the Hiſtory of our Age,</hi> and yet it is queſtiona<g ref="char:EOLhyphen"/>ble
+whether they will wonder more at theſe mens Treaſons, and de<g ref="char:EOLhyphen"/>teſtable
+Impieies, or his moſt Sacred Majeſties Mercy and Clemen<g ref="char:EOLhyphen"/>cy
+afforded in his General Pardon, to which this wretch hath alrea<g ref="char:EOLhyphen"/>dy
+betaken himſelf.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, And are to be ſold at divers Book-ſellers Shops, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
